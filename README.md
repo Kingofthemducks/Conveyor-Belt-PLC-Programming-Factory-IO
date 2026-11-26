@@ -56,7 +56,7 @@ The project was developed entirely in simulation, without requiring a physical P
 
 ## Demonstration
 
-The video below demonstrates the system operating in Factory I/O alongside the CODESYS PLC program.
+The videos below demonstrate the system operating in Factory I/O alongside the CODESYS PLC program.
 
 PLC Logic Demonstration: https://www.youtube.com/watch?v=FjgqUa7RV2A
 
