@@ -58,9 +58,9 @@ The project was developed entirely in simulation, without requiring a physical P
 
 The video below demonstrates the system operating in Factory I/O alongside the CODESYS PLC program.
 
-**PLC Logic Demonstration:** [Watch the demonstration video of PLC Logic]((https://www.youtube.com/watch?v=FjgqUa7RV2A))
+PLC Logic Demonstration: https://www.youtube.com/watch?v=FjgqUa7RV2A
 
-**Factory IO Demonstration:** [Watch the demonstration video of Factory IO](https://www.youtube.com/watch?v=iOEDZyAuSeM))
+Factory IO Demonstration: https://www.youtube.com/watch?v=iOEDZyAuSeM
 
 The demonstration shows the interaction between the simulated machinery and the PLC logic, including box detection, classification, sorting, conveyor operation and production counting.
 
